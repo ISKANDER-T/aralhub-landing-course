@@ -29,7 +29,7 @@ export const Header = () => {
       <div
         className={cn(
           "text-[16px] leading-6 font-inter hidden",
-          "lg:flex lg:flex-row lg:gap-16",
+          "lg:flex lg:flex-row lg:gap-16 text-white",
         )}
       >
         {menu.map((item) => (
@@ -38,7 +38,7 @@ export const Header = () => {
             onClick={() => setActiveLink(item.text)}
             className={
               activeLink === item.text
-                ? "font-semibold text-white"
+                ? "font-semibold "
                 : "font-medium opacity-50"
             }
           >

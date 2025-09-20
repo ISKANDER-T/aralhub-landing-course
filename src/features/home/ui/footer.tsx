@@ -42,7 +42,7 @@ export const Footer = () => {
             <div>Baylanıs</div>
           </div>
         </div>
-        <div className={cn("w-[373px]")}>
+        <div className={cn("lg:w-[373px]")}>
           <div className={cn("text-[20px] leading-7 tracking-[0%] mb-6")}>
             Kurslar
           </div>
