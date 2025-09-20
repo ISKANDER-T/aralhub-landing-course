@@ -1,4 +1,3 @@
-import { Darmanbek } from "@/shared/assets";
 import { cn } from "@/shared/lib/css";
 
 export const MentorCard = ({
