@@ -24,6 +24,7 @@ export const Course = () => {
         "bg-[#ECECEC] rounded-[12px] px-3 py-12 font-inter flex flex-col",
         "lg:px-[356px] lg:py-32 lg:rounded-4xl lg:justify-center lg:items-center",
       )}
+      id="course"
     >
       <div className={cn("flex flex-col gap-6", "lg:w-[1160px] lg:gap-16")}>
         <div

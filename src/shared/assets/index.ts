@@ -15,9 +15,25 @@ import figma1 from "./figma-1.svg";
 import figma2 from "./figma-2.svg";
 import androeed1 from "./androeed-1.svg";
 import androeed2 from "./androeed-2.svg";
+import Darmanbek from "./Darmanbek.png";
+import Timur from "./Timur.png";
+import Alimjan from "./Alimjan.png";
+import Babur from "./Babur.png";
+import Bektemir from "./Bektemir.png";
+import Atabek from "./Atabek.png";
+import instagram from "./instagram.svg";
+import telegram from "./telegram.svg";
 
 export {
   logoFull,
+  instagram,
+  telegram,
+  Alimjan,
+  Atabek,
+  Babur,
+  Bektemir,
+  Timur,
+  Darmanbek,
   logoText,
   logo,
   react1,
